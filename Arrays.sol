@@ -15,6 +15,6 @@ contract Arrays {
     }
 
     function getlenght() public view returns (uint) {
-        myArray.lenght;
+        return myArray.length;
     }
 }
